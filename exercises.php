@@ -87,6 +87,6 @@
 
 		<p><input type="submit" value="enviar datos"></p> 
 	</form>
-	<h1>hola soy git</h1>
+	<h1>hola soy  github</h1>
 </body>
 </html>
